@@ -27,5 +27,5 @@
         <useSSL>false</useSSL>
     </sslConfiguration>
     <targetMethod>GET</targetMethod>
-    <targetURI>http://jgjghj</targetURI>
+    <targetURI>http://r</targetURI>
 </targetServiceConfiguration>
